@@ -1,0 +1,15 @@
+export const Logo = require("./logo.png");
+export const HeroImg = require("../assets/trafalgar-header illustration 1.png");
+export const Cardimage = require("../assets/Frame (2).png");
+export const Jarimage = require("../assets/Frame (3).png");
+export const Consultimage = require("../assets/Frame (4).png");
+export const Checkbookimage = require("../assets/Frame (5).png");
+export const Emergeimage = require("../assets/Frame (6).png");
+export const Trackingimage = require("../assets/Frame (7).png");
+export const Travimage = require("../assets/trafalgar-illustration 2.png");
+export const Travimage2 = require("../assets/trafalgar-illustration 3.png");
+export const Maskimage = require("../assets/Mask Group.png");
+export const Labimage = require("../assets/image 2 (1).png");
+export const Injectimage = require("../assets/image 2.png");
+export const Sparimage = require("../assets/image 3.png");
+export const Arrowimage = require("../assets/arrow.png");

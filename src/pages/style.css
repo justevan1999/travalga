@@ -1,0 +1,540 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+
+img{
+    width: inherit;
+}
+
+#head1{
+    font-size: 40px;
+font-style: normal;
+font-weight: 700;
+margin-top: 6rem;
+}
+
+#consult{
+ border-radius: 58px;
+background: #458FF6;
+border: none;
+color: #FFF;
+font-family: Mulish;
+font-size: 15px;
+padding: 8px 16px;
+font-weight: 700;
+}
+
+.coll{
+    margin-top: 6rem;
+}
+
+.top3 h5{
+    text-align: center;
+}
+
+.top3 p {
+    text-align: center;
+    color: #7D7987;
+    font-size: 14px;
+    /* width: 900px; */
+    font-weight: 300;
+}
+
+.top4 button{
+    outline: none;
+    color: #458FF6;
+    padding: 4px 25px;
+    border-radius: 55px;
+border: 1.4px solid #458FF6;
+background-color: transparent;
+margin: auto !important;
+justify-content: center !important;
+
+    &:hover{
+        background-color: #458FF6;
+        color: #FFF;
+        transition: 1s;
+    }
+    
+}
+
+.top-beg{
+    margin-left: 42%;
+    margin-bottom: 60px;
+}
+
+
+
+.box-1 {
+    padding: 15px 25px;
+    width: 300px;
+    background-color: #fff;
+    font-size: 50px;
+    box-shadow: 10px 40px 50px 0px rgba(196, 197, 202, 0.4);
+    border-radius: 20px;
+    margin-bottom: 5rem;
+    width: 310px;
+    height: 320px;
+    flex-shrink: 0;
+  }
+
+  .row {
+    margin: 0 !important;
+  }
+
+  
+  .box-1 p{
+    font-size: 16px;
+    color: #7D7987;
+    line-height: 28px;
+  }
+
+  .other {
+    /* display: flex; */
+    gap: 60px !important;
+  }
+
+  .other  img{
+    width: 100%;
+  }
+
+  .other p{
+    color: #7D7987;
+    font-size: 15px;
+    font-weight: 300;
+  }
+
+  .other button{
+    outline: none;
+    color: #458FF6;
+    padding: 4px 25px;
+    border-radius: 55px;
+border: 1.4px solid #458FF6;
+background-color: transparent;
+
+    &:hover{
+        background-color: #458FF6;
+        color: #FFF;
+        transition: 1s;
+    }
+  }
+
+.other h4{
+    font-weight: 700;
+}
+
+.other4{
+    margin-bottom: 8rem;
+}
+
+.Download {
+    outline: none;
+    color: #458FF6;
+    padding: 4px 25px;
+    border-radius: 55px;
+border: 1.4px solid #458FF6;
+background-color: transparent;
+
+    &:hover{
+        background-color: #458FF6;
+        color: #FFF;
+        transition: 1s;
+    }
+}
+
+.other4 p {
+    color: #7D7987;
+    font-weight: 300;
+    font-size: 15px;
+}
+
+.big h4{
+  text-align: center;
+  margin-bottom: 6rem;
+}
+
+
+.check{
+    display: flex;
+    gap: 4rem;
+    justify-content: center;
+}
+
+.mantext{
+    margin-top: 20px;
+}
+
+.man-image{
+    display: flex;
+    gap: 20px;
+}
+
+.man-text{
+    margin-top: 25px;
+}
+
+.saying{
+    /* text-align: center; */
+    margin-bottom: 5rem;
+}
+
+.big{
+    color: #fff;
+    /* justify-content: center;
+    align-items: center; */
+    margin: auto;
+    background: linear-gradient(208deg, #67C3F3 9.05%, #5A98F2 76.74%);
+    border-radius: 24px;
+    width: 85%;
+    /* height: 300px; */
+    padding: 30px 30px;
+}
+
+
+
+.carousel .slide{
+    text-align: justify;
+}
+
+
+.lab{
+    margin-bottom: 4rem !important;
+   margin: auto;
+    margin-left: 179px;
+    justify-content: center;
+}
+
+.Article{
+     /* text-align: center; */
+     margin-top: 4rem;
+     margin-bottom: 4rem;
+     text-align: center;
+    /* justify-content: center;
+    align-items: center; */
+}
+
+.card .card-body{
+    border: none !important;
+    outline: none;
+}
+
+.card-body a  {
+    text-decoration: none !important;
+}
+
+.card:hover{
+    transition: transform 4s;
+    transform: scale(1.1);
+}
+
+.card-mage{
+    
+        border-top-left-radius: calc(0.9rem - 1px) !important;
+        border-top-right-radius: calc(0.9rem - 1px) !important;             
+}
+
+.card-text{
+    color: #7D7987;
+    font-size: 13px;
+}
+
+ 
+.lab-card{
+    
+    border-bottom-left-radius: 20px !important;
+    border-bottom-right-radius: 20px !important;
+    box-shadow:10px 40px 50px 0px rgba(200, 203, 212, 0.4);
+}
+
+.card-body{
+    border-radius: 20px;
+background: #FFF;
+
+/* drop shadow */
+}
+
+.none{
+    outline: none;
+    border: none;
+    color: #4089ED;
+    background-color: transparent;
+}
+
+.arrow1 {
+    width: 16%;
+}
+
+.before-foot{
+    outline: none;
+    color: #458FF6;
+    padding: 4px 25px;
+    border-radius: 55px;
+border: 1.4px solid #458FF6;
+background-color: transparent;
+
+    &:hover{
+        background-color: #458FF6;
+        color: #FFF;
+        transition: 1s;
+    }
+}
+
+.myfooter{
+    margin-top: 10rem;
+    padding-top: 5rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer5{
+    margin-top: 7rem;
+}
+
+.footeer{
+    color: #fcfbfb;
+    margin-top: 1rem;
+    background: linear-gradient(183deg, #67C3F3 -8.57%, #5A98F2 82.96%);
+}
+
+.upper{
+    margin-bottom: 25px;
+
+}
+
+.pee{
+    margin-bottom: 25px;
+    margin-top: 17px;
+
+}
+
+.down{
+    margin-bottom: 25px;
+}
+
+.middle{
+    margin-bottom: 25px;
+
+}
+
+.center{
+    margin-bottom: 25px;
+
+}
+
+
+
+/* media query */
+
+@media screen and (max-width:992px){
+
+    br{
+        display: none;
+    }
+    .check{
+        display: block;
+    }
+
+    .big{
+        padding: 6px 16px;
+        width: 100%;
+    }
+
+    .big h4{
+        margin-top: 15px;
+        font-size: 22px;
+        margin-bottom: 10px !important;
+    }
+
+    .man-image{
+        display: block;
+        justify-content: center;
+        margin-bottom: 15px;
+    }
+
+    .lab-info{
+        display: block;
+      margin-left: -143px ;
+    }
+
+    .Article{
+        margin-left: -19px;
+        font-size: 26px;
+        justify-content: center !important;
+        text-align: center !important;
+    }
+
+    .card{
+        margin-bottom: 40px;
+    }
+
+    .myfooter{
+        display: block;
+        text-align: center;
+        margin-top: 0 !important;
+    }
+
+    .footer5 {
+        margin-top: 10px;
+    }
+
+    .navbar {
+        position: relative;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-between;
+        padding: 1.5rem 6px !important;
+    }
+
+    .footeer {
+        height: 151vh;
+    }
+
+    .company{
+        margin-top: 20px;
+    }
+
+    .logo-part{
+        /* width: 18% !important; */
+        margin-bottom: 100px;
+    }
+
+    #consult {
+        width: 100%;
+        margin-bottom: 40px;
+    }
+
+    #head1 {
+        font-size: 37px;
+        margin-top: 3rem;
+    }
+
+    #wahala{
+        font-size: 15px;
+        font-weight: 400;
+    }
+
+    .top3 h5 {
+        margin-top: 35px;
+        font-size: 25px;
+    }
+
+    .top3 p {
+        font-size: 13.45px;
+        font-weight: 450;
+    }
+
+    .box-1 {
+        text-align: center;
+    }
+
+    .box-1 p {
+        font-size: 14px;
+    }
+
+    .top4 button {
+        width: 100%;
+        margin-bottom: 40px !important;
+    }
+
+    .other h4 {
+        font-weight: 600;
+        font-size: 23px;
+        padding-top: 30px;
+    }
+    .other button {
+        width: 100%;
+    }
+
+    .other p {
+        font-weight: 400;
+    }
+
+    .other4 p {
+        font-weight: 400;
+    }
+
+    .Download {
+        width: 100%;
+        margin-bottom: 50px;
+    }
+    
+    .beeds {
+        font-size: 15px;
+    }
+
+    .man-text h6 {
+        font-size: 20px;
+    }
+
+    .man-text p{
+        font-size: 17px;
+    }
+
+    .pee {
+        font-size: 20px;
+    }
+
+    .top-beg{
+        margin-left: 0 !important;
+        margin-bottom: 60px;
+    }
+
+}
+
+
+@media (min-width: 768px) and (max-width: 1024px){ 
+    #wahala {
+        font-size: 25px !important;
+    }
+
+    .top3 p{
+        font-size: 23px;
+    }
+
+    .other p{
+        font-size: 24px;
+    }
+
+    .other4 p{
+        font-size: 24px;
+    }
+
+    .other button{
+        padding: 12px 36px;
+    }
+
+    .Download{
+        padding: 12px 36px;
+
+    }
+
+    #consult {
+        padding: 14px 36px;
+    }
+
+    .top3 h5{
+        font-size: 32px;
+    }
+
+    #head1{
+        font-size: 50px;
+    }
+
+    .other h4{
+        font-size: 32px;
+    }
+
+    #load{
+        font-size: 32px;
+    }
+
+    .Article{
+        font-size: 34px;
+    }
+
+}
+    
+
+
+
+
